@@ -1,0 +1,18 @@
+body {
+    font-family: lucida console;
+}
+
+h1 {
+    text-align: center;
+    font-size: 56px;
+    letter-spacing: 10px;
+    margin-bottom: 70px;
+}
+
+th {
+    color: #5f9ea0;
+    font-size: 25px;
+    border-bottom: solid 1px black;
+    padding: 0px;
+    width: 250px;
+}
